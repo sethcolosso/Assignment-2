@@ -54,8 +54,10 @@ if (!isset($_SESSION['user_id'])) {
   <a href="Register.php">Register</a>
 </div>
 <div style="text-align:center; margin-top:50px;">
-  <h1 style="color:#9C27B0;">🚀 Welcome to the Future Interspace Travel Portal</h1>
+  <h1 style="color:#9C27B0;"> Welcome to the Future Interspace Travel Portal</h1>
   <p style="font-size:18px;">You are now connected to the future. Thank you for boarding with us!</p>
-   <p style="font-size:18px;">Journey to the stars</p>
+   <p style="font-size:18px;">Journey to the stars and frontier of Space</p>
+    <p style="font-size:18px;">Journey to the interstellar and frontier of Space</p>
   <a href="logout.php" style="color:#fff; background:#f44336; padding:10px 20px; text-decoration:none; border-radius:5px;">Logout</a>
 </div>
+
